@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello program!");
+        // TODO: Implement a simple program
+        // labels: development, bot
+        Console.WriteLine("Hello world!");
     }
 }
